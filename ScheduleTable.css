@@ -1,0 +1,27 @@
+/*
+* Grace Berenato
+* 13 March 2019
+* Schedule Project
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    
+}
+
+table {border-collapse: collapse}
+
+table, td, th {border: 1 px solid blue;}
+
+thead {background-color: darkturquoise;}
+
+tfoot {background-color: blanchedalmond}
+
+tbody {background-color: azure}
